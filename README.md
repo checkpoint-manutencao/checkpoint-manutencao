@@ -1,4 +1,4 @@
-# 👩 Gabriel Melo
+#Gabriel Melo
 
 **`Desenvolvedor FullStack`**
 
